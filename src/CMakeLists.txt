@@ -6,7 +6,7 @@ option (USE_TRIGONOMETRY_DEGREE
 if (USE_TRIGONOMETRY_DEGREE)
 include_directories ("${PROJECT_SOURCE_DIR}/Trygonometria")
 add_subdirectory(Trygonometria)
-target_link_libraries (Trygonometria)
+target_link_libraries (Laborka Trygonometria)
 endif (USE_TRIGONOMETRY_DEGREE)
 configure_file (
 "${PROJECT_SOURCE_DIR}/LaborkaConfig.h.in"

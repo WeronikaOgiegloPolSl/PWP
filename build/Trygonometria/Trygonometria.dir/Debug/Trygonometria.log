@@ -1,4 +1,4 @@
-﻿Build started 2017-03-10 13:58:59.
+﻿Build started 2017-03-10 14:14:08.
      1>Project "C:\Users\student\PWP\build\Trygonometria\Trygonometria.vcxproj" on node 2 (rebuild target(s)).
      1>_PrepareForClean:
          Deleting file "Trygonometria.dir\Debug\Trygonometria.lastbuildstate".
@@ -20,4 +20,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.29
+Time Elapsed 00:00:00.21
