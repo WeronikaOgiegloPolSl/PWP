@@ -1,2 +1,4 @@
+#include "trygonometria.h"
 int main() {
-/*...*/ return 0; }
+	double sin_degree(10);
+ return 0; }
