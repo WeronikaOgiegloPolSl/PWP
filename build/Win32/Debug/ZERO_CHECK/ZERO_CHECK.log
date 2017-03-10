@@ -1,4 +1,4 @@
-﻿Build started 2017-03-10 14:14:08.
+﻿Build started 2017-03-10 14:20:31.
      1>Project "C:\Users\student\PWP\build\ZERO_CHECK.vcxproj" on node 2 (rebuild target(s)).
      1>_PrepareForClean:
          Deleting file "Win32\Debug\ZERO_CHECK\ZERO_CHECK.lastbuildstate".
@@ -15,4 +15,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.15
+Time Elapsed 00:00:00.07

@@ -1,9 +1,9 @@
-﻿Build started 2017-03-10 14:14:08.
+﻿Build started 2017-03-10 14:20:23.
      1>Project "C:\Users\student\PWP\build\Laborka.vcxproj" on node 2 (rebuild target(s)).
      1>_PrepareForClean:
          Deleting file "Laborka.dir\Debug\Laborka.lastbuildstate".
        InitializeBuildStatus:
-         Touching "Laborka.dir\Debug\Laborka.unsuccessfulbuild".
+         Creating "Laborka.dir\Debug\Laborka.unsuccessfulbuild" because "AlwaysCreate" was specified.
        CustomBuild:
          Building Custom Rule C:/Users/student/PWP/src/CMakeLists.txt
          CMake does not need to re-run because C:\Users\student\PWP\build\CMakeFiles\generate.stamp is up-to-date.
@@ -30,4 +30,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.68
+Time Elapsed 00:00:00.70
